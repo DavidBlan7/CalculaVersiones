@@ -24,4 +24,9 @@ public class CalculadoraVer {
 		int multiplicacion = num1 * num2;
 		return multiplicacion;
 	}
+	
+	public int dividir(int num1, int num2) {
+		int division = num1 / num2;
+		return division;
+	}
 }
